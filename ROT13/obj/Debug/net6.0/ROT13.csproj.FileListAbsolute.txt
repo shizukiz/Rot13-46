@@ -1,0 +1,15 @@
+U:\Ausbildung\Projekte\Visual Studio\ROT13\ROT13\bin\Debug\net6.0\ROT13.exe
+U:\Ausbildung\Projekte\Visual Studio\ROT13\ROT13\bin\Debug\net6.0\ROT13.deps.json
+U:\Ausbildung\Projekte\Visual Studio\ROT13\ROT13\bin\Debug\net6.0\ROT13.runtimeconfig.json
+U:\Ausbildung\Projekte\Visual Studio\ROT13\ROT13\bin\Debug\net6.0\ROT13.dll
+U:\Ausbildung\Projekte\Visual Studio\ROT13\ROT13\bin\Debug\net6.0\ROT13.pdb
+U:\Ausbildung\Projekte\Visual Studio\ROT13\ROT13\obj\Debug\net6.0\ROT13.csproj.AssemblyReference.cache
+U:\Ausbildung\Projekte\Visual Studio\ROT13\ROT13\obj\Debug\net6.0\ROT13.GeneratedMSBuildEditorConfig.editorconfig
+U:\Ausbildung\Projekte\Visual Studio\ROT13\ROT13\obj\Debug\net6.0\ROT13.AssemblyInfoInputs.cache
+U:\Ausbildung\Projekte\Visual Studio\ROT13\ROT13\obj\Debug\net6.0\ROT13.AssemblyInfo.cs
+U:\Ausbildung\Projekte\Visual Studio\ROT13\ROT13\obj\Debug\net6.0\ROT13.csproj.CoreCompileInputs.cache
+U:\Ausbildung\Projekte\Visual Studio\ROT13\ROT13\obj\Debug\net6.0\ROT13.dll
+U:\Ausbildung\Projekte\Visual Studio\ROT13\ROT13\obj\Debug\net6.0\refint\ROT13.dll
+U:\Ausbildung\Projekte\Visual Studio\ROT13\ROT13\obj\Debug\net6.0\ROT13.pdb
+U:\Ausbildung\Projekte\Visual Studio\ROT13\ROT13\obj\Debug\net6.0\ROT13.genruntimeconfig.cache
+U:\Ausbildung\Projekte\Visual Studio\ROT13\ROT13\obj\Debug\net6.0\ref\ROT13.dll
