@@ -14,37 +14,20 @@ To use ROT13/46, simply apply the letter substitution algorithm to your text. Ea
 
 Here's an example:
 
-yaml
-Copy code
+```csharp
 Original text: Hello, World!
 ROT13/46 encrypted: Uryyb, Jbeyq!
+```
+
 To decrypt the ROT13/46 encrypted text, simply apply the same algorithm again:
 
 
 
-
-
-
-```plaintext
-Original text: Hello, World!
-ROT13/46 encrypted: Uryyb, Jbeyq!
-```
-
 ```csharp
-// C# code snippet
-public void Encrypt(string text)
-{
-    // Perform ROT13/46 encryption
-    // ...
-}
-```
-
-
-
-yaml
-Copy code
 ROT13/46 encrypted: Uryyb, Jbeyq!
 Decrypted text: Hello, World!
+```
+
 Please note that ROT13/46 is a symmetric encryption algorithm, meaning the same key (rotation value) is used for both encryption and decryption.
 
 Disclaimer
