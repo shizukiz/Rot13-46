@@ -14,7 +14,7 @@ To use ROT13/46, simply apply the letter substitution algorithm to your text. Ea
 
 Here's an example:
 
-```csharp
+```plaintext
 Original text: Hello, World!
 ROT13/46 encrypted: Uryyb, Jbeyq!
 ```
@@ -23,7 +23,7 @@ To decrypt the ROT13/46 encrypted text, simply apply the same algorithm again:
 
 
 
-```csharp
+```plaintext
 ROT13/46 encrypted: Uryyb, Jbeyq!
 Decrypted text: Hello, World!
 ```
