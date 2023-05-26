@@ -1,6 +1,6 @@
 # Rot13/46
  
-# # Description
+## Description
 ROT13/46 is a simple letter substitution encryption technique that replaces each letter in the alphabet with the letter 13 or 46 positions ahead or behind it. It is a variation of the ROT13 (Rotate by 13 places) cipher.
 
 Origin
